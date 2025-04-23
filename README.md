@@ -56,9 +56,5 @@ To use the virtual mouse, make sure your computer has a camera and follow the st
 
 To exit the application, stop the code running using code editor or directle close the GUI window.
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any bugs or have any suggestions for improvement.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
